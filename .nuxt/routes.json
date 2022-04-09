@@ -1,0 +1,51 @@
+[
+  {
+    "name": "CreateTodo",
+    "path": "/CreateTodo",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\todof\\\\pages\\\\CreateTodo.vue",
+    "chunkName": "pages/CreateTodo",
+    "_name": "_23263952"
+  },
+  {
+    "name": "GetAllTodos",
+    "path": "/GetAllTodos",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\todof\\\\pages\\\\GetAllTodos.vue",
+    "chunkName": "pages/GetAllTodos",
+    "_name": "_3ecc3582"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\todof\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login",
+    "_name": "_2f258629"
+  },
+  {
+    "name": "MyTodos",
+    "path": "/MyTodos",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\todof\\\\pages\\\\MyTodos.vue",
+    "chunkName": "pages/MyTodos",
+    "_name": "_3116013e"
+  },
+  {
+    "name": "todos",
+    "path": "/todos",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\todof\\\\pages\\\\todos.vue",
+    "chunkName": "pages/todos",
+    "_name": "_74b09466"
+  },
+  {
+    "name": "UpdateTodo",
+    "path": "/UpdateTodo",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\todof\\\\pages\\\\UpdateTodo.vue",
+    "chunkName": "pages/UpdateTodo",
+    "_name": "_2006b41f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\todof\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_23e8799c"
+  }
+]
